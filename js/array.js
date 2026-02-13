@@ -13,7 +13,7 @@ console.log("1️⃣ ARRAY CREATION METHODS");
 console.log("---------------------------");
 
 // Literal Notation (Most Common)
-const fruits = ["Apple", "Banana", "Mango", "lemon", "Banana", "lili"];
+const fruits = ["Apple", "Banana", "Mango", "lemon", "Banane", "lili"];
 console.log("Literal:", fruits); // ['Apple', 'Banana', 'Mango']
 
 // Array Constructor
